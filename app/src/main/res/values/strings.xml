@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FOTF App</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+</resources>
